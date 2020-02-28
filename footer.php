@@ -7,7 +7,7 @@
                             <div><a href="tel:+55051997578128"><img class="icone mx-2" src="imagens/Footer/phone.png" alt=""></a></div>
                             <div><a href="https://wa.me/5551997578128"><img class="icone mx-2" src="imagens/Footer/whatsapp.png" alt=""></a></div>
                             <div><a href="mailto:contato@redecora.com.br"><img class="icone mx-2" src="imagens/Footer/email.png" alt=""></a></div>
-                            <div><a href="contact-form.php"><img class="icone mx-2" src="imagens/Footer/email.png" alt=""></a></div>
+                            <div><a href="contact-form.php"><img class="icone mx-2" src="imagens/Footer/support.png" alt=""></a></div>
                         </div>
                     </div>
                     <div class="col-4 text-center">
