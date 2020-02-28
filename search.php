@@ -28,14 +28,14 @@
                              <option value="melhorAvaliado">Melhor Avaliado</option>
                          </select>
                      </form>
-                 <div>
+                </div>
              </div>
          </div>
 
          <hr>
 
          <div class="row">
-             <div class="col-6">
+             <div class="col-3">
                  <form action="" method="get">
                  <p><br>Categorias</p>
                  <div class="form-check">
@@ -165,8 +165,9 @@
                  </form>
              </div>
 
-             <div class="col-6">
-                 <div class="card border-light mb-3" style="width: 15rem;">
+             <div class="col-9">
+                 <div class="row">
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
                      <div>   
                          <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
                          <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
@@ -180,7 +181,7 @@
                      <a href="#" class="btn btn-success">Comprar</a>
                      </div>
                  </div>
-                 <div class="card border-light mb-3" style="width: 15rem;">
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
                      <div>   
                          <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
                          <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
@@ -194,7 +195,7 @@
                      <a href="#" class="btn btn-success">Comprar</a>
                      </div>
                  </div>
-                 <div class="card border-light mb-3" style="width: 15rem;">
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
                      <div>   
                          <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
                          <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
@@ -208,55 +209,102 @@
                      <a href="#" class="btn btn-success">Comprar</a>
                      </div>
                  </div>
+                 </div>
+
+                 <div class="row">
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Outros\Moveis-Reciclados-2.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Outros\moveis-reciclados-confira-ideias-originais-e-criativas-17.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Palets\sofá-feito-com-pallets-e-rodinhas.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 </div>
+
+                 <div class="row">
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Pneus\decoração-para-sala-com-puff-de-pneu-velho.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Outros\luminaria-de-papel-768x614.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 <div class="card border-light mb-3 col-4" style="width: 15rem;">
+                     <div>   
+                         <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
+                         <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
+                         <img class="card-img-top img-fluid" src="Imagens\Produtos\Outros\cesto-de-roupa-com-tampo-de-madeira-para-mesa-lateral.jpg" alt="Card image cap">
+                     </div>
+                 
+                     <div class="card-body">
+                     <h5 class="card-title">Nome do produto</h5>
+                     <h6 class="card-text">Valor</h6>
+                     <h6 class="card-text">Parcelamento</h6>
+                     <a href="#" class="btn btn-success">Comprar</a>
+                     </div>
+                 </div>
+                 </div>
+
              </div>
 
          </div>
       
-         <div class="col-6">
-            <div class="card border-light mb-3" style="width: 15rem;">
-                <div>   
-                    <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
-                    <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
-                    <img class="card-img-top img-fluid" src="Imagens\Produtos\Outros\moveis-reciclados-confira-ideias-originais-e-criativas-14.jpg" alt="Card image cap">
-                </div>
-            
-                <div class="card-body">
-                <h5 class="card-title">Nome do produto</h5>
-                <h6 class="card-text">Valor</h6>
-                <h6 class="card-text">Parcelamento</h6>
-                <a href="#" class="btn btn-success">Comprar</a>
-                </div>
-            </div>
-            <div class="card border-light mb-3" style="width: 15rem;">
-                <div>   
-                    <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
-                    <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
-                    <img class="card-img-top img-fluid" src="Imagens\Produtos\Caixotes\mesinha-de-canto-rústica-feita-com-caixote-de-feira.jpg" alt="Card image cap">
-                </div>
-            
-                <div class="card-body">
-                <h5 class="card-title">Nome do produto</h5>
-                <h6 class="card-text">Valor</h6>
-                <h6 class="card-text">Parcelamento</h6>
-                <a href="#" class="btn btn-success">Comprar</a>
-                </div>
-            </div>
-            <div class="card border-light mb-3" style="width: 15rem;">
-                <div>   
-                    <img src="imagens/Header/heart.svg" alt="" class="icone img-fluid" style="position:absolute;left:70%; top:325px;">
-                    <img src="imagens/Header/shopping-cart.svg" alt="" class="icone img-fluid" style="position:absolute;left:85%; top:325px;">
-                    <img class="card-img-top img-fluid" src="Imagens\Produtos\Palets\modelo-de-sofá-de-pallets-com-futon.jpg" alt="Card image cap">
-                </div>
-            
-                <div class="card-body">
-                <h5 class="card-title">Nome do produto</h5>
-                <h6 class="card-text">Valor</h6>
-                <h6 class="card-text">Parcelamento</h6>
-                <a href="#" class="btn btn-success">Comprar</a>
-                </div>
-            </div>
-        </div>
-
     </div>
 
 

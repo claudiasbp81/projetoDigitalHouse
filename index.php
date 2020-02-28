@@ -14,32 +14,32 @@
             <div class="row">
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Móveis.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Móveis.png" alt="" class="categorias"></a>
                     </div>
                 </div>
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Decoração.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Decoração.png" alt="" class="categorias"></a>
                      </div>
                 </div>
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Ambientes.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Ambientes.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Promoção.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Promoção.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Novidades.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Novidades.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="categorias"></a>
+                        <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="categorias"></a>
                      </div>
                 </div>              
             </div>
