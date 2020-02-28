@@ -41,6 +41,14 @@ body{
     height:25px;    
 }
 
+.nav-link{
+    color:white !important;
+}
+
+.brand img{
+    width: 300px;
+}
+
 .chkvermelho input {
     display: none;
 }
@@ -109,7 +117,7 @@ body{
 .card {
     background-color: #d2d3d5;
     border: 1px solid #D2D3D5;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .card-img-top{
@@ -129,9 +137,10 @@ body{
 }
 
 .btn-outline-success{
-    border: 1px solid whitesmoke
+    border: 1px solid whitesmoke;
 }
 
 .categorias{
     width:100px;
     height:100px;  
+}

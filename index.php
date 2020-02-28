@@ -1,93 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
-    <meta charset="utf-8" >
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Redecora </title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/estilo.css">
-    <link rel="shortcut icon" href="Imagens/Logo/favicon.png" />
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php require "head.html" ?>
+    <title>Home</title>
 </head>
-
 <body>
-    
-        <div class="container-fluid row" style="padding: 0; margin: 0;">
-            <div class="col-4 brand">
-                <a class="navbar-brand mr-auto" href="#"><img src="imagens/Header/LogoUmaLinhaColorVerdeB.jpeg" alt="" class="img-fluid"></a>
-            </div>
+    <?php require "header.php" ?>
 
-            <div class="col-8 d-flex" id="header" >
-                <div class="container d-flex justify-content-center my-auto">
-                <nav class="navbar navbar-expand-lg navbar-light">            
-
-                    <button class="navbar-toggler m-auto" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                      <span class="navbar-toggler-icon"></span>
-                    </button>
-                  
-                    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                        <form class="form-inline">
-                            <input class="form-control form-control-sm mr-sm-1" type="search" placeholder="Pesquisar...">
-                            <button class="btn btn-outline-light btn-sm mr-sm-4" type="submit"><img src="imagens/Header/search.png" alt="" class="icone"></button>
-                          </form>
-                      <ul class="navbar-nav">
-                        <li class="nav-item active">
-                          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" href="about.html">Quem Somos</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link  mr-sm-4" href="#">Produtos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="wishlist.html"><img src="imagens/Header/heart.png" alt="" class="icone"></a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#"><img src="imagens/Header/shopping-cart.png" alt="" class="icone"></a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#"><img src="imagens/Header/user.png" alt="" class="icone"></a>
-                          </li>                   
-                       </ul>
-                    </div>    
-                </nav>
-            </div>
-            </div>
-                  
-        </div>        
-         
-        <div id="conteudo" class="container"> <!-- inicio conteudo -->
+    <div id="conteudo" class="container"> <!-- inicio conteudo -->
          
             <div class="row">
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Móveis.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Móveis.png" alt="" class="categorias"></a>
                     </div>
                 </div>
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Decoração.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Decoração.png" alt="" class="categorias"></a>
                      </div>
                 </div>
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Ambientes.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Ambientes.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Promoção.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Promoção.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Novidades.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Novidades.png" alt="" class="categorias"></a>
                      </div>
                 </div>                  
                 <div class="col-2 py-2 mb-2 text-center">
                     <div>
-                        <img class="nav-link" href="#"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="categorias">
+                        <a class="nav-link" href="#"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="categorias"></a>
                      </div>
                 </div>              
             </div>
@@ -107,7 +59,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Caixotes/abre-pallets-viram-moveis-768x661.jpeg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Caixotes/abre-pallets-viram-moveis-768x661.jpeg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -121,7 +73,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Caixotes/criado-mudo-de-caixote-de-feira.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Caixotes/criado-mudo-de-caixote-de-feira.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -135,7 +87,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Caixotes/mesinha-de-canto-rústica-feita-com-caixote-de-feira.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Caixotes/mesinha-de-canto-rústica-feita-com-caixote-de-feira.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -153,7 +105,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/LatasBarris/berçobarril (1).jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/LatasBarris/berçobarril (1).jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -167,7 +119,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/LatasBarris/color-reclicle.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/LatasBarris/color-reclicle.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -181,7 +133,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/LatasBarris/decoração-bares.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/LatasBarris/decoração-bares.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -199,7 +151,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Palets/decoração-para-varanda-com-sofá-de-pallets.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Palets/decoração-para-varanda-com-sofá-de-pallets.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -213,7 +165,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Palets/modelo-de-sofá-de-pallets-com-futon.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Palets/modelo-de-sofá-de-pallets-com-futon.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -227,7 +179,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Palets/sala-de-estar-rústica-com-sofá-de-pallets.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Palets/sala-de-estar-rústica-com-sofá-de-pallets.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -245,7 +197,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Pneus/06-Revisteiro-vermelho-feito-com-pneu-672x483.jpeg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Pneus/06-Revisteiro-vermelho-feito-com-pneu-672x483.jpeg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -259,7 +211,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Pneus/decoração-com-puff-feito-de-pneu-revestido-com-corda-de-sisal-e-pés-palito.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Pneus/decoração-com-puff-feito-de-pneu-revestido-com-corda-de-sisal-e-pés-palito.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -273,7 +225,7 @@
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>   
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
-                                    <img class="card-img-top img-fluid" src="Imagens/Pneus/moveis-reciclados-confira-ideias-originais-e-criativas-8.jpg" alt="Card image cap">
+                                    <img class="card-img-top img-fluid" src="Imagens/Produtos/Pneus/moveis-reciclados-confira-ideias-originais-e-criativas-8.jpg" alt="Card image cap">
                                 </div>
                                 <div class="card-body">
                                     <h5 class="card-title">Nome do produto</h5>
@@ -298,51 +250,7 @@
          
         </div> <!-- fim conteudo -->
 
-         
-        <div id="footer-verde" class="py-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-4 text-center">
-                        <h6>Fale Conosco</h6>
-                        <div class="row justify-content-center">
-                            <div><a href="tel:+55051997578128"><img class="icone mx-2" src="imagens/Footer/phone.png" alt=""></a></div>
-                            <div><a href="https://wa.me/5551997578128"><img class="icone mx-2" src="imagens/Footer/whatsapp.png" alt=""></a></div>
-                            <div><a href="mailto:contato@redecora.com.br"><img class="icone mx-2" src="imagens/Footer/email.png" alt=""></a></div>
-                        </div>
-                    </div>
-                    <div class="col-4 text-center">
-                        <h6>Redes Sociais</h6>
-                        <div class="row justify-content-center">
-                            <div><a href="https://pt-br.facebook.com/"><img class="icone mx-2" src="imagens/Footer/facebook.png" alt=""></a></div>
-                            <div><a href="https://www.instagram.com/accounts/login/?hl=pt-br"><img class="icone mx-2" src="imagens/Footer/instagram.png" alt=""></a></div>
-                            <div><a href="https://twitter.com/login?lang=pt"><img class="icone mx-2" src="imagens/Footer/twitter.png" alt=""></a></div>
-                        </div>
-                    </div>
-                    <div class="col-4 text-center">
-                        <h6>Formas de Pagamento</h6>
-                        <div class="row justify-content-center">
-                            <div><a href="#"><img class="icone mx-2" src="imagens/Footer/mastercard.png" alt=""></a></div>
-                            <div><a href="#"><img class="icone mx-2" src="imagens/Footer/visa.png" alt=""></a></div>
-                            <div><a href="#"><img class="icone mx-2" src="imagens/Footer/paypal.png" alt=""></a></div>
-                        </div>
-                    </div>
-                
-                </div> 
-            </div>           
-        </div>
-        <div id="footer-azul">
-
-                <div class="container text-center py-3">
-                    <h6>&copy 2020 - REDECORA - Todos os direitos reservados.</h6>
-                </div>
-
-        </div>
-         
- 
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
+    <?php require "footer.php" ?>
+    
 </body>
-
 </html>
