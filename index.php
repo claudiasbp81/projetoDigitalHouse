@@ -14,35 +14,35 @@
     <div id="conteudo" class="container">
         <!-- inicio conteudo -->
 
-        <div class="row">
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Móveis.png" alt="" class="categorias"></a>
+        <div class="d-flex flex-wrap justify-content-around">
+            <div class="py-2 mb-2 text-center ">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Móveis.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Decoração.png" alt="" class="categorias"></a>
+            <div class="py-2 mb-2 text-center">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Decoração.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Ambientes.png" alt="" class="categorias"></a>
+            <div class="py-2 mb-2 text-center">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Ambientes.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Promoção.png" alt="" class="categorias"></a>
+            <div class="py-2 mb-2 text-center">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Promoção.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Novidades.png" alt="" class="categorias"></a>
+            <div class="py-2 mb-2 text-center">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Novidades.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
-            <div class="col-lg-2 py-2 mb-2 text-center">
-                <div>
-                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="categorias"></a>
+            <div class="py-2 mb-2 text-center">
+                <div class="categorias">
+                    <a class="nav-link" href="search.php"><img src="Imagens/Categorias/Inspire-se - Sustentabilidade.png" alt="" class="img-fluid"></a>
                 </div>
             </div>
         </div>
@@ -58,7 +58,7 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="row">
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -104,7 +104,7 @@
                 </div>
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -118,7 +118,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -132,7 +132,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -150,7 +150,7 @@
                 </div>
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -164,7 +164,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -196,7 +196,7 @@
                 </div>
                 <div class="carousel-item">
                     <div class="row">
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -210,7 +210,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
@@ -224,7 +224,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 py-3 mb-3">
+                        <div class="col-md-4 pb-3 mb-3">
                             <div class="card" style="width: 18rem col-md-4 text-center card;">
                                 <div>
                                     <img src="imagens/Header/heart verde claro.png" alt="" class="icone img-fluid wishlist-icon">
