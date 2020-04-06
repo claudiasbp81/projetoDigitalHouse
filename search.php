@@ -180,7 +180,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -194,7 +194,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -208,7 +208,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -239,7 +239,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -253,7 +253,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                 </div>
@@ -270,7 +270,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -284,7 +284,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                     <div class="card border-light mb-3 col-lg-4" style="width: 15rem;">
@@ -298,7 +298,7 @@
                             <h5 class="card-title">Nome do produto</h5>
                             <h6 class="card-text">Valor</h6>
                             <h6 class="card-text">Parcelamento</h6>
-                            <a href="#" class="btn btn-success">Comprar</a>
+                            <a href="detalhe_produto.html" class="btn btn-success">Comprar</a>
                         </div>
                     </div>
                 </div>
